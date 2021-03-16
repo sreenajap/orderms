@@ -1,0 +1,13 @@
+C:\Users\HP\Documents\fa4-main\OrdersMS\src\main\java\com\infosys\fa4project\Order\entity\Order.java
+C:\Users\HP\Documents\fa4-main\OrdersMS\src\main\java\com\infosys\fa4project\Order\dto\OrderDTO.java
+C:\Users\HP\Documents\fa4-main\OrdersMS\src\main\java\com\infosys\fa4project\Order\entity\OrderStatus.java
+C:\Users\HP\Documents\fa4-main\OrdersMS\src\main\java\com\infosys\fa4project\Order\service\ProductsOrderedService.java
+C:\Users\HP\Documents\fa4-main\OrdersMS\src\main\java\com\infosys\fa4project\Order\controller\OrderController.java
+C:\Users\HP\Documents\fa4-main\OrdersMS\src\main\java\com\infosys\fa4project\Order\dto\ProductsOrderedDTO.java
+C:\Users\HP\Documents\fa4-main\OrdersMS\src\main\java\com\infosys\fa4project\Order\OrderApplication.java
+C:\Users\HP\Documents\fa4-main\OrdersMS\src\main\java\com\infosys\fa4project\Order\repository\ProductsOrderedRepository.java
+C:\Users\HP\Documents\fa4-main\OrdersMS\src\main\java\com\infosys\fa4project\Order\entity\ProductsOrdered.java
+C:\Users\HP\Documents\fa4-main\OrdersMS\src\main\java\com\infosys\fa4project\Order\controller\ProductsOrderedController.java
+C:\Users\HP\Documents\fa4-main\OrdersMS\src\main\java\com\infosys\fa4project\Order\repository\OrderRepository.java
+C:\Users\HP\Documents\fa4-main\OrdersMS\src\main\java\com\infosys\fa4project\Order\service\OrderService.java
+C:\Users\HP\Documents\fa4-main\OrdersMS\src\main\java\com\infosys\fa4project\Order\entity\ProductsOrderedPk.java
